@@ -1,0 +1,31 @@
+:root {
+	scroll-behavior: unset;
+	--primario: #525ea2;
+	--secundario: #f5b335;
+	--naranja: #e96235;
+	--morado: #8b4986;
+	--rojo: #ce1508;
+	--verde: #238d7e;
+	--morado-azul: #525ea2;
+	--negro-gris: #444545;
+	--text-color: #000;
+	--text-color-gris: #c5c4c2;
+	--rosa: #f5b8b9;
+
+	--blanco: #fff;
+	--negro: #000;
+
+	--input: #ededed;
+
+	--bg-gris: #f2f2f2;
+
+	--sombra: 0 8px 20px 0 rgb(0 0 0 / 10%);
+
+	/* Dashboard */
+	--d-azul: #5c9cd9;
+	--d-rojo: #d65267;
+	--d-verde: #60beb2;
+	--d-azul-claro: #c3cfd9;
+	--d-morado: #525ea2;
+	--d-morado-claro: #968cf7;
+}
